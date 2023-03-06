@@ -1,4 +1,3 @@
-
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_Validation", "Form_Validation\Form_Validation.csproj", "{CA82B277-BA73-4D5A-BA67-08E205B806C7}"
